@@ -1,0 +1,7 @@
+صدى "# -https-m7mhmo7.wordpress.com-" >> README.md 
+git init 
+git add README.md 
+git الالتزام -m "الالتزام الأول" 
+git Branch -M الرئيسي 
+git Remote إضافة الأصل https://github.com/ mhmod62/-https-m7mhmo7.wordpress.com-.git
+ git Push -u Origin main
